@@ -73,10 +73,6 @@ In the above example, the script will monitor the `/home/user/Documents` directo
 - Ensure that the script has execute permissions. You can set this using `chmod +x bigBrother.sh`.
 - Run the script from the directory where `bigBrother.sh` is located to ensure proper path handling.
 
-## License
-
-This script is open source and available under the MIT License.
-
 ## Authors
 
 - Yarin Shohat
